@@ -12,13 +12,3 @@ After reviewing the application requirements, I decided to continue Protocol ori
 
 In order to check internet connectivity Swift's built-in library Network is used. 
 
-## Timeline:
-
-- 1 hour on Thursday August 31st
-- 1.5 hour on Friday September 1st
-- 5.5 hour on Saturday September 2nd
-
-notes: Bonus feature is added but I did not think that it would requires API request, so I've added label's texts statically. I would change them to put dynamically from the server side if time allows me.
-
-
-Thanks for letting me participate in this meaningful take home test.
